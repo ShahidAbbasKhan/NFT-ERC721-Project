@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# NFT Project 
+## https://goerli.etherscan.io/address/0x6e2eA35b43Ba30F19E544F6A07aed8916D1b8565#code
+Minting is Free and Total Supply is 10000 . Contract Address is 0x6e2eA35b43Ba30F19E544F6A07aed8916D1b8565
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
